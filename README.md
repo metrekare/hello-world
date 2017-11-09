@@ -4,5 +4,4 @@ deneme
 dene
 me
 
-
 de
